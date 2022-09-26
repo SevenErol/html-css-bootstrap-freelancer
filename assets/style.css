@@ -1,0 +1,10 @@
+:root {
+    --bg-header: #2C3E50;
+    --bg-sections: #1ABC9C;
+    --bg-banner-btm: #3A546D;
+}
+
+
+#site_header {
+    background-color: var(--bg-header);
+}
