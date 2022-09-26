@@ -26,3 +26,11 @@
 .ms_btn {
     background-color: var(--bg-sections);
 }
+
+#banner_btm {
+    background-color: var(--bg-banner-btm);
+}
+
+#site_footer {
+    background-color: var(--bg-header);
+}
