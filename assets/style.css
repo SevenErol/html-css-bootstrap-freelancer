@@ -8,3 +8,13 @@
 #site_header {
     background-color: var(--bg-header);
 }
+
+.colored_section {
+    background-color: var(--bg-sections);
+}
+
+.square {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
