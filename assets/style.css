@@ -18,3 +18,11 @@
     height: 100px;
     width: 100px;
 }
+
+.ms_pb {
+    padding-bottom: 200px ;
+}
+
+.ms_btn {
+    background-color: var(--bg-sections);
+}
