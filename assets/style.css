@@ -13,10 +13,21 @@
     background-color: var(--bg-sections);
 }
 
-.square {
-    background-color: black;
-    height: 100px;
-    width: 100px;
+.img_container {
+    width: 200px;
+}
+
+.ms_decoration {
+    width: 40%;
+}
+
+.ms_description {
+    width: 80%;
+}
+
+.ms_line {
+    height: 3px;
+    background-color: white;
 }
 
 .ms_pb {
