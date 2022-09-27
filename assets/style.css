@@ -25,9 +25,14 @@
     width: 80%;
 }
 
-.ms_line {
+.ms_light {
     height: 3px;
     background-color: white;
+}
+
+.ms_dark {
+    height: 3px;
+    background-color: black;
 }
 
 .ms_pb {
