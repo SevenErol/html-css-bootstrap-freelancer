@@ -39,7 +39,15 @@
     padding-bottom: 200px ;
 }
 
-.ms_btn {
+
+#inputName3,
+#inputEmailAddress3,
+#inputPhoneNumber3,
+#inputComment3 {
+    border: 0;
+}
+
+#ms_bg {
     background-color: var(--bg-sections);
 }
 
